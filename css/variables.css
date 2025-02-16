@@ -1,0 +1,12 @@
+:root {
+    /* Primary colors */
+    --color-white: #FFFFFF;
+    --color-primary-blue: #2B7FFF;
+    --color-primary-dark-blue: #011C44;
+  
+    /* Secondary colors */
+    --color-secondary-gray-dark: #4A4A4A;
+    --color-secondary-gray: #747272;
+    --color-secondary-navy: #011F4A;
+    --color-secondary-yellow: #FFD02B;
+  }

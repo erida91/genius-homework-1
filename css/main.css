@@ -1,0 +1,54 @@
+body {
+    color: var(--color-primary-dark-blue);
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.hero__title {
+    color: var(--color-primary-dark-blue);
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.hero__highlight {
+    color: var(--color-primary-blue);
+    font-family: 'Play', sans-serif;
+    font-size: 140px;
+    font-weight: 700;
+}
+
+.nav__item {
+    color: var(--color-primary-blue);
+    font-weight: 700;
+}
+
+.header__nav-icon {
+    fill: var(--color-primary-dark-blue);
+}
+
+.hero__button {
+    color: var(--color-white);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 16px 32px;
+    border-radius: 32px;
+    background-color: var(--color-primary-blue);
+    border: none;
+}
+
+.hero__description {
+    color: var(--color-secondary-gray-dark);
+    font-size: 12px; 
+}
+
+.about__title {
+    color: var(--color-primary-dark-blue);
+    font-family: 'Play', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.about__highlight {
+    color: var(--color-primary-blue);
+}
