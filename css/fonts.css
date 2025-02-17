@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Roboto';
-    src: url('Roboto-SemiBold.woff2') format('woff2'),
-        url('Roboto-SemiBold.woff') format('woff');
+    src: url('../fonts/Roboto-SemiBold.woff2') format('woff2'),
+         url('../fonts/Roboto-SemiBold.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Roboto';
-    src: url('Roboto-Regular.woff2') format('woff2'),
-        url('Roboto-Regular.woff') format('woff');
+    src: url('../fonts/Roboto-Regular.woff2') format('woff2'),
+         url('../fonts/Roboto-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'Play';
-    src: url('Play-Bold.woff2') format('woff2'),
-        url('Play-Bold.woff') format('woff');
+    src: url('../fonts/Play-Bold.woff2') format('woff2'),
+         url('../fonts/Play-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: 'Play';
-    src: url('Play-Regular.woff2') format('woff2'),
-        url('Play-Regular.woff') format('woff');
+    src: url('../fonts/Play-Regular.woff2') format('woff2'),
+         url('../fonts/Play-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
